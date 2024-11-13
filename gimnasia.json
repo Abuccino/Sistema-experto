@@ -1,0 +1,73 @@
+{
+    "__v": 1,
+    "description": "Base de conocimiento de saltos en gimnasia artística",
+    "entries": [
+        {
+            "name": "Salto Yurchenko",
+            "description": "El salto Yurchenko es uno de los saltos más complejos en gimnasia artística. Involucra una entrada de rondada (cartwheel), un flic-flac (back handspring) y un salto de acrobacia hacia atrás desde la mesa de salto. Se puede realizar con giros adicionales como mortales y piruetas.",
+            "props": [
+                "Entrada de rondada",
+                "Flic-flac hacia la mesa",
+                "Salto de acrobacia hacia atrás",
+                "Combinación de giros (mortal, pirueta)",
+                "Salto avanzado"
+            ]
+        },
+        {
+            "name": "Yurchenko con mortal",
+            "description": "El Yurchenko con mortal es una variación avanzada del salto Yurchenko, donde el gimnasta realiza una entrada de rondada, seguida de un flic-flac sobre la mesa, y finalmente un mortal atrás durante el salto.",
+            "props": [
+                "Entrada de rondada",
+                "Flic-flac hacia la mesa",
+                "Mortal hacia atrás",
+                "Requiere gran impulso y control",
+                "Alto nivel de dificultad"
+            ]
+        },
+        {
+            "name": "Yurchenko con pirueta",
+            "description": "El Yurchenko con pirueta es una variación del salto en la que el gimnasta realiza una entrada de rondada, flic-flac, y durante el vuelo realiza una pirueta completa antes de aterrizar.",
+            "props": [
+                "Entrada de rondada",
+                "Flic-flac hacia la mesa",
+                "Pirueta en el aire",
+                "Alta coordinación y técnica",
+                "Dificultad alta"
+            ]
+        },
+        {
+            "name": "Yurchenko con doble mortal",
+            "description": "El Yurchenko con doble mortal es una de las variaciones más difíciles del salto, en la que el gimnasta ejecuta dos mortales atrás durante el vuelo después de la fase de flic-flac.",
+            "props": [
+                "Entrada de rondada",
+                "Flic-flac hacia la mesa",
+                "Doble mortal hacia atrás",
+                "Alto riesgo",
+                "Máxima dificultad"
+            ]
+        },
+        {
+            "name": "Tsukahara",
+            "description": "El Tsukahara es un salto que incluye un cuarto de giro antes de realizar un salto acrobático hacia atrás. Si no se utiliza la entrada con giro, se puede optar por un salto alternativo como Yurchenko o Handspring.",
+            "props": [
+                "Entrada con cuarto de giro",
+                "Salto acrobático hacia atrás",
+                "Variantes incluyen mortales o dobles mortales",
+                "Requiere gran control en el giro",
+                "Dificultad alta"
+            ]
+        },
+        {
+            "name": "Handspring",
+            "description": "El Handspring es un salto donde el gimnasta se impulsa hacia adelante usando las manos en la mesa de salto. Si no se utiliza la entrada de impulso con las manos, se puede realizar otro salto como Yurchenko o Tsukahara.",
+            "props": [
+                "Impulso con las manos hacia la mesa",
+                "Salto hacia adelante",
+                "Variantes incluyen mortales o piruetas simples",
+                "Moderado riesgo",
+                "Dificultad intermedia"
+            ]
+        }
+    ],
+    "final_message": "puede optar por otro tipo de salto que no sea Yurchenko,Tsukahara o handspring, con dificultad mas baja"
+}
